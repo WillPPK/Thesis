@@ -1,0 +1,33 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+Molprobity score : 1.43
+89.52% sequence identity
+
+
+hKir2-2      -----------------------------------------CRNRFVKKNGQCNIEFANM	60
+cKir2-2      -----------------------------------------CRNRFVKKNGQCNVEFTNM	19
+                                                      *************:**:**
+
+hKir2-2      DEKSQRYLADMFTTCVDIRWRYMLLIFSLAFLASWLLFGIIFWVIAVAHGDLEPAEGR-G	119
+cKir2-2      DDKPQRYIADMFTTCVDIRWRYMLLLFSLAFLVSWLLFGLIFWLIALIHGDLENPGGDDT	79
+             *:* ***:*****************:******.******:***:**: *****   *   
+
+hKir2-2      RTPCVMQVHGFMAAFLFSIETQTTIGYGLRCVTEECPVAVFMVVAQSIVGCIIDSFMIGA	179
+cKir2-2      FKPCVLQVNGFVAAFLFSIETQTTIGYGFRCVTEECPLAVFMVVVQSIVGCIIDSFMIGA	139
+              .***:**:**:****************:********:******.***************
+
+hKir2-2      IMAKMARPKKRAQTLLFSHNAVVALRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRVTE	239
+cKir2-2      IMAKMARPKKRAQTLLFSHNAVVAMRDGKLCLMWRVGNLRKSHIVEAHVRAQLIKPRITE	199
+             ************************:********************************:**
+
+hKir2-2      EGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEIDEASPLFGISRQDLETDDFEIVVIL	299
+cKir2-2      EGEYIPLDQIDIDVGFDKGLDRIFLVSPITILHEINEDSPLFGISRQDLETDDFEIVVIL	259
+             ***********************************:* **********************
+
+hKir2-2      EGMVEATAMTTQARSSYLANEILWGHRFEPVLFEEKNQYKIDYSHFHKTYEVPSTPRCSA	359
+cKir2-2      EGMVEATAMTTQARSSYLASEILWGHRFEPVLFEEKNQYKVDYSHFHKTYEVPSTPRCSA	319
+             *******************.********************:*******************
+
+hKir2-2      KDLVENKFLLPSA-----------------------------------------------	419
+cKir2-2      KDLVENKFLLSNS-----------------------------------------------	332
+             ********** .:                                               
+
