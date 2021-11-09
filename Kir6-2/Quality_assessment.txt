@@ -1,0 +1,2 @@
+MolProbity = 1.09
+Ramachandran favoured = 97.49%
